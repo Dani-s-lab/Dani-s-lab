@@ -1,5 +1,6 @@
 ## Hi, I'm Daniel 👋
 
+
 ## 👤 About Me
 I'm a Data Analyst who turns raw data into clear, structured insights.  
 I focus on clean workflows, reliable analysis and dashboards that explain themselves.
