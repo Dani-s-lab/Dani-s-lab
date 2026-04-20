@@ -33,6 +33,10 @@ I work with SQL, Python and Power BI, and I care about visual structure, consist
   <!-- Figma (optional) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 
+  ## 📬 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-s-b85383216/)
+
 ## 📂 Projects
 
 <p align="left">
