@@ -32,3 +32,12 @@ I work with SQL, Python and Power BI, and I care about visual structure, consist
 
   <!-- Figma (optional) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+
+## 📂 Projects
+
+### European Smart City Performance
+<p align="left">
+  <img src="images/cover_dashboard.png" width="100%">
+</p>
+
+🔗 [View Project](https://github.com/Dani-dev/European-Smart-City-Performance)
