@@ -37,7 +37,7 @@ I work with SQL, Python and Power BI, and I care about visual structure, consist
 
 ### European Smart City Performance
 <p align="left">
-  <img src="images/cover_dashboard.png" width="100%">
+  <img src="images/"Smart_City_Cover.png" width="100%">
 </p>
 
-🔗 [View Project](https://github.com/Dani-dev/European-Smart-City-Performance)
+🔗 [View Project](https://github.com/Dani-s-lab/European-Smart-City-Performance)
