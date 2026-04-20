@@ -22,6 +22,9 @@
   <!-- Power BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
 
+  <!-- Excel -->
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Spreadsheet/Color/spreadsheet_color.svg" width="45" title="Excel"/>
+
   <!-- Figma (optional) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
