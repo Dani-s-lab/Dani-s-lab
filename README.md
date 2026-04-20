@@ -35,7 +35,6 @@ I work with SQL, Python and Power BI, and I care about visual structure, consist
 
 ## 📂 Projects
 
-### European Smart City Performance
 <p align="left">
   <img src="images/Smart_City_Cover.png" width="100%">
 </p>
