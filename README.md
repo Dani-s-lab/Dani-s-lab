@@ -35,10 +35,3 @@ I bridge physical control systems with data intelligence—combining reliable PL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-s-b85383216/)
 
-## 📂 Projects
-
-<p align="left">
-  <img src="images/Smart_City_Cover.png" width="100%">
-</p>
-
-🔗 [View Project](https://github.com/Dani-s-lab/European-Smart-City-Performance)
