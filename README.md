@@ -1,10 +1,8 @@
 ## Hi, I'm Daniel 👋
 
 ## 👤 About Me
-I'm a Data Analyst who turns raw data into clear, structured insights.  
-I focus on clean workflows, reliable analysis and dashboards that explain themselves.
-
-I work with SQL, Python and Power BI, and I care about visual structure, consistency and business understanding.
+Data Analyst & Industrial Automation Developer focused on Industry 4.0. 
+I bridge physical control systems with data intelligence—combining reliable PLC logic and HMI design with SQL, Python, and Power BI dashboards.
 
 ### 🛠️ Skills & Tools
 
