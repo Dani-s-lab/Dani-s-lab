@@ -25,8 +25,8 @@ I bridge physical control systems with data intelligence—combining reliable PL
   <!-- Plotly -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" title="Plotly"/>
 
-  <!-- CODESYS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codesys_Logo.svg" width="45" title="CODESYS"/>
+ <!-- PLC / CODESYS -->
+ <img src="https://img.shields.io/badge/CODESYS-005C9E?style=for-the-badge&logo=codesys&logoColor=white" title="CODESYS"/>
 
   <!-- Power BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
